@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Laurat Hajrullaaga</h1>
-<h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with elegant and bulletproof interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also passionate about animations, design systems, WebGL, 3D design and Game Development</h3>
+<h1 align="left">YOYO 👋, I'm Laurat Hajrullaaga</h1>
+<h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with beautiful interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also passionate about animations, design systems, Functional Programming, WebGL, 3D design and Game Development</h3>
 
 - 🔭 I’m currently working on a game web app **gamingDaily**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laurat hajrullaaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurat hajrullaaga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/laurat-hajrullaaga-8b286222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laurat-hajrullaaga-8b286222b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
