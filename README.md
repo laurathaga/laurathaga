@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hajrullaagalaurat@gmail.com**
 
-- ⚡ Fun fact **I like a lot of things on Programming world and in software _BUT_ PHP is not one of them**
+- ⚡ Fun fact: **I love almost everything related to programming except PHP :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
