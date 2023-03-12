@@ -1,9 +1,15 @@
-<h1 align="left">Y'all 👋, I'm Laurat Hajrullaaga</h1>
+<h1 align="left">Hi Y'all 👋, I'm Laurat Hajrullaaga</h1>
 <h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with beautiful interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also passionate about animations, design systems, Functional Programming, WebGL, 3D design and Game Development</h3>
 
-- 🔭 I’m currently working on a game web app **gamingDaily**
+- 🔭 I’m currently working on my portfolio web page (coming soon) **MyPortfolio**
 
 - 🌱 I’m currently learning more about **Typescript, Node Js,**
+
+- 👨‍💻 Things I want to learn this year: **Three JS, WebGL, 3D software, a more in depth knowledge of Node JS, and contribute on open source regularly**
+
+- 📫 How to reach me **hajrullaagalaurat@gmail.com**
+
+- ⚡ Fun fact **I don't like PHP :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
