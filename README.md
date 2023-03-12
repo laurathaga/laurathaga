@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on my portfolio web page (coming soon) **MyPortfolio**
 
-- 🌱 I’m currently learning more about **Typescript, Node Js,**
+- 🌱 Currently I've been learning more in depth about **Typescript, Node Js,**
 
-- 👨‍💻 Things I want to learn this year: **Three JS, WebGL, 3D software, a more in depth knowledge of Node JS, and contribute on open source regularly**
+- 👨‍💻 Things I want to learn/improve this year: **Three JS, WebGL, 3D software, and contribute on open source regularly**
 
 - 📫 How to reach me **hajrullaagalaurat@gmail.com**
 
-- ⚡ Fun fact **I don't like PHP :)**
+- ⚡ Fun fact **I like a lot of things on Programming world and in software _BUT_ PHP is not one of them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
