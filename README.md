@@ -1,5 +1,5 @@
 <h1 align="left">Hi Y'all 👋, I'm Laurat Hajrullaaga</h1>
-<h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with beautiful interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also passionate about animations, design systems, Functional Programming, WebGL, 3D design and Game Development</h3>
+<h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with beautiful interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also very passionate about animations, design systems, Functional Programming, WebGL, Game Development, 3D websites</h3>
 
 - 🔭 I’m currently working on my portfolio web page (coming soon) **MyPortfolio**
 
