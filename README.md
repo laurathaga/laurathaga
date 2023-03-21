@@ -1,4 +1,4 @@
-<h1 align="left">Hi Y'all 👋, I'm Laurat Hajrullaaga</h1>
+<h1 align="left">Hi Y'all 👋, <b>I'm Laurat Hajrullaaga</b></h1>
 <h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with beautiful interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also very passionate about animations, design systems, Functional Programming, WebGL, Game Development, 3D websites. </br>
 Besides creating/innovating, I do like to read books relating to computer science, spirituality, mathematics and personal development </h3>
 
