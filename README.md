@@ -6,7 +6,7 @@ Besides creating/innovating, I do like to read books relating to computer scienc
 
 - 🌱 Currently I've been learning more in depth about **Typescript, Node Js,**
 
-- 👨‍💻 Things I want to learn/improve this year: **Three JS, WebGL, 3D software, and contribute on open source regularly**
+- 👨‍💻 Things I want to learn/improve this year: **Three JS, WebGL, 3D software, Neovim and contribute on open source regularly**
 
 - 📫 How to reach me **hajrullaagalaurat@gmail.com**
 
