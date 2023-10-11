@@ -2,15 +2,11 @@
 <h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with beautiful interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also very passionate about animations, design systems, Functional Programming, WebGL, Game Development, 3D websites. </br>
 Besides creating/innovating, I do like to read books relating to computer science, spirituality, mathematics and personal development </h3>
 
-- 🔭 I’m currently working on my portfolio web page (coming soon).
-
 - 🌱 Currently I've been learning more in depth about **Typescript, Node Js,**
 
 - 👨‍💻 Things I want to learn/improve this year: **Three JS, WebGL, 3D software, Neovim and contribute on open source regularly**
 
 - 📫 How to reach me **hajrullaagalaurat@gmail.com**
-
-- ⚡ Fun fact: **I love almost everything related to programming except PHP :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
