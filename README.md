@@ -8,7 +8,7 @@ Besides creating/innovating, I do like to read books relating to computer scienc
 
 - 👨‍💻 Things I want to improve this year: **Vim, Databases**
 
-- 📫 How to reach me **hajrullaagalaurat@gmail.com**
+- 📫 How to reach me: **hajrullaagalaurat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
