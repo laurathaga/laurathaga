@@ -1,5 +1,6 @@
 <h1 align="left">Hey y'all, I'm Laurat Hajrullaaga</h1>
-<h3 align="left">A passionate self-taught full stack developer from Pristina. My passion for software lies with dreaming up ideas and making them come true with beautiful interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also very passionate about animations, Functional Programming, WebGL, Game Development, 3D websites, and low level programming with C/C++. </br>
+<h3 align="left">A passionate self-taught programmer from Pristina. Enthusiastic to learn new things and how things actually work under the hood (kinda like to reinvent the wheel alot). I'm also very passionate about animations, Functional Programming, WebGL, Game Development, 3D websites, and low level programming with C/C++. </br>
+Currently focused more on backend and networking. </br>
 Besides creating/innovating, I do like to read books relating to computer science, spirituality, mathematics. </h3>
 
 - 🌱 Currently I've been learning more in depth about **Typescript, Node Js, C, Databases (PostgreSQL)**
